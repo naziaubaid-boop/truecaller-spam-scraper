@@ -1,0 +1,16 @@
+node_modules/
+logs/
+*.log
+.env
+
+# Output files
+data/output/
+data/number.csv
+
+# Browser & session data
+browser_data/
+chrome_profile/
+
+# OS files
+.DS_Store
+Thumbs.db

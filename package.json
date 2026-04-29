@@ -1,0 +1,29 @@
+{
+  "name": "truecaller-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:default": "node index.js --profile=default",
+    "start:kishor_8860": "node index.js --profile=pranjal_7198",
+    "create-profile": "node setup-profile.js",
+    "delete-profile": "node delete-profile.js",
+    "unlist": "node unlist.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "truecaller",
+    "scraper",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "Truecaller scraper with human-like behavior",
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^2.6.7",
+    "playwright": "^1.58.2"
+  }
+}

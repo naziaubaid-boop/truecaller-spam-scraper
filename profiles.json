@@ -1,0 +1,67 @@
+[
+  {
+    "name": "shubham_4774",
+    "is_logged_in": true,
+    "max_spam_count": 0,
+    "created_at": "2026-04-28T09:01:46.031Z",
+    "updated_at": "2026-04-28T09:01:46.033Z"
+  },
+  {
+    "name": "deepika_0076",
+    "is_logged_in": false,
+    "created_at": "2026-04-29T13:15:43.339Z",
+    "updated_at": "2026-04-29T17:50:45.158Z"
+  },
+  {
+    "name": "mahadev_7354",
+    "is_logged_in": true,
+    "max_spam_count": 0,
+    "created_at": "2026-04-29T14:02:51.221Z",
+    "updated_at": "2026-04-29T14:02:51.223Z"
+  },
+  {
+    "name": "nirmal_5497",
+    "is_logged_in": true,
+    "max_spam_count": 0,
+    "created_at": "2026-04-29T14:08:02.926Z",
+    "updated_at": "2026-04-29T14:08:02.930Z"
+  },
+  {
+    "name": "abhijeet_5979",
+    "is_logged_in": true,
+    "max_spam_count": 0,
+    "created_at": "2026-04-29T14:16:46.033Z",
+    "updated_at": "2026-04-29T14:16:46.033Z"
+  },
+  {
+    "name": "hrishabh_1004",
+    "is_logged_in": true,
+    "max_spam_count": 0,
+    "created_at": "2026-04-29T14:25:25.091Z",
+    "updated_at": "2026-04-29T14:25:25.091Z"
+  },
+  {
+    "name": "gautam_6461",
+    "is_logged_in": true,
+    "created_at": "2026-04-29T14:27:34.192Z",
+    "updated_at": "2026-04-29T14:27:34.192Z"
+  },
+  {
+    "name": "nikhil_8084",
+    "is_logged_in": true,
+    "created_at": "2026-04-29T14:30:15.688Z",
+    "updated_at": "2026-04-29T16:55:04.420Z"
+  },
+  {
+    "name": "shivam_8460",
+    "is_logged_in": true,
+    "created_at": "2026-04-29T15:13:35.804Z",
+    "updated_at": "2026-04-29T16:55:26.078Z"
+  },
+  {
+    "name": "himanshi_mahadev_6835",
+    "is_logged_in": true,
+    "created_at": "2026-04-29T15:15:28.486Z",
+    "updated_at": "2026-04-29T16:56:04.244Z"
+  }
+]
